@@ -12,4 +12,4 @@ This project is a part of my undergraduate seminar in data science. In this proj
 3. Statistical analysis and visualization.
 4. Data analysis with multiple machine learning algorithms.
 
-(to be updated)
+(More details to be updated)
