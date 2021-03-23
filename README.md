@@ -4,6 +4,8 @@ Tokyo is the capital and the most populus city of Japan. The price of residentia
 
 This project is a part of my undergraduate seminar in data science. In this project, I used the data from the Land General Information System of the Japanese Ministry of Land, Infrastructure, Transport, and Tourism to analyze the real estate landscape of two wards of Tokyo, Toshima Ward and Suginami Ward. 
 
+The goal is to predict house prices with the least error. 
+
 ### Data Source: https://www.land.mlit.go.jp/webland_english/servlet/MainServlet
 
 ### What I did in this project:
