@@ -15,4 +15,7 @@ The goal is to predict house prices by training various ML models and selecting 
 4. Statistical analysis and visualization.
 5. Data analysis with multiple machine learning algorithms.
 
+### Suginami Models' Performances - Prediction Errors 
+![image](https://user-images.githubusercontent.com/36881258/112401891-cfe83800-8d4e-11eb-8434-e7264900b4e3.png)
+
 (More details to be updated)
